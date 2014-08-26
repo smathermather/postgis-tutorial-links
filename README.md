@@ -7,4 +7,7 @@ command for getting data:
 
 ``` 
 git clone https://github.com/smathermather/postgis-tutorial-data.git
+cd postgis-tutorial-data
+ls
+
 ```
